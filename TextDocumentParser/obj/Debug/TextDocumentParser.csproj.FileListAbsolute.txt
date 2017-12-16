@@ -1,0 +1,12 @@
+c:\users\jw33\documents\visual studio 2013\Projects\TextDocumentParser\TextDocumentParser\bin\Debug\TextDocumentParser.exe.config
+c:\users\jw33\documents\visual studio 2013\Projects\TextDocumentParser\TextDocumentParser\bin\Debug\TextDocumentParser.exe
+c:\users\jw33\documents\visual studio 2013\Projects\TextDocumentParser\TextDocumentParser\bin\Debug\TextDocumentParser.pdb
+c:\users\jw33\documents\visual studio 2013\Projects\TextDocumentParser\TextDocumentParser\obj\Debug\TextDocumentParser.csprojResolveAssemblyReference.cache
+c:\users\jw33\documents\visual studio 2013\Projects\TextDocumentParser\TextDocumentParser\obj\Debug\TextDocumentParser.exe
+c:\users\jw33\documents\visual studio 2013\Projects\TextDocumentParser\TextDocumentParser\obj\Debug\TextDocumentParser.pdb
+E:\Coding\Personal Projects\TextDocumentParser\TextDocumentParser\bin\Debug\TextDocumentParser.exe.config
+E:\Coding\Personal Projects\TextDocumentParser\TextDocumentParser\obj\Debug\TextDocumentParser.exe
+E:\Coding\Personal Projects\TextDocumentParser\TextDocumentParser\obj\Debug\TextDocumentParser.pdb
+D:\Coding\Projects\Desktop Projects\TextDocumentParser\TextDocumentParser\bin\Debug\TextDocumentParser.exe.config
+D:\Coding\Projects\Desktop Projects\TextDocumentParser\TextDocumentParser\obj\Debug\TextDocumentParser.exe
+D:\Coding\Projects\Desktop Projects\TextDocumentParser\TextDocumentParser\obj\Debug\TextDocumentParser.pdb
